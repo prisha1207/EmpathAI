@@ -8,12 +8,12 @@ a meeting, and generates a smart reply — all without any manual effort.
 ---
 ## 🚀 Features
 
-- 📧 **Email Parsing** — Extracts meeting time from raw email text
-- 😊 **Sentiment & Tone Detection** — Detects if an email is Urgent, Normal, or Flexible
-- ⭐ **Priority Assignment** — High / Medium / Low based on tone
-- 📅 **Smart Scheduling** — Avoids conflicts, finds the next free slot automatically
-- 💬 **Smart Reply Generation** — Writes a context-aware confirmation reply
-- 🌐 **Web Interface** — Clean, minimal Flask UI
+-  **Email Parsing** — Extracts meeting time from raw email text
+-  **Sentiment & Tone Detection** — Detects if an email is Urgent, Normal, or Flexible
+-  **Priority Assignment** — High / Medium / Low based on tone
+-  **Smart Scheduling** — Avoids conflicts, finds the next free slot automatically
+-  **Smart Reply Generation** — Writes a context-aware confirmation reply
+-  **Web Interface** — Clean, minimal Flask UI
 
 ---
 
@@ -50,7 +50,7 @@ python app.py
 ### 4. Open in browser
 link: http://127.0.0.1:5000/
 
-## 📸 Demo
+##  Demo
 
 ![EmpathAI Screenshot](screenshots/demo.png)
 
